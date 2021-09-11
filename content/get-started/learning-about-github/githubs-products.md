@@ -13,7 +13,7 @@ versions:
 topics:
   - Accounts
   - CLI
-  - Mobile
+  - Mobile 
   - Desktop
   - Security
 ---
